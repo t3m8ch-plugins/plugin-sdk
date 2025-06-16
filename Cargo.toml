@@ -6,3 +6,4 @@ repository = "github.com/t3m8ch-plugins/plugin-sdk"
 
 [dependencies]
 wai-bindgen-rust = "0.2.3"
+wai-bindgen-wasmer = "0.600.1"
